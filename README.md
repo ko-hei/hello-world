@@ -1,2 +1,3 @@
 # hello-world
 first repo. big step!
+Hey, I am a "Changer". I change the README right NOW. I hope the change makes some intresting story about it...
